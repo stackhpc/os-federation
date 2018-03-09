@@ -1,5 +1,7 @@
 # Federated OpenStack Test Environment
 
+## 🚨 This is a work-in-progress. Lower your expectations and proceed at your own risk!
+
 This configuration deploys two independant OpenStack control nodes - `sp` and `idp` - ready for development and test of OpenStack Federation.  The goal of the configuration in this repository is to bootstrap just enough OpenStack in each case to do basic testing, so all this currently deploys is Keystone plus dependencies (i.e MariaDB).
 
 # Getting started
